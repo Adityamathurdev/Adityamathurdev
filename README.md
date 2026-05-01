@@ -21,5 +21,5 @@ School: St. Stephen's Senior Secondary School, Ajmer
 Focus: Computer Science & Web Technologies
 🌐 Connect with me:
 
-Portfolio: adityamathurweb.netlify.app
+Portfolio: https://adityamathurweb.unaux.com
 LinkedIn: adityamathurweb
